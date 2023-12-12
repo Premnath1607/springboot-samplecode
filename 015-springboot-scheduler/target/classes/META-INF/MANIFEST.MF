@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: new
+Build-Jdk: 17.0.8.1
+Implementation-Title: springbootscheduler
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hcl
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springbootscheduler
+Created-By: Maven Integration for Eclipse
+
